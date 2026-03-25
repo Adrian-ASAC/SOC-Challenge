@@ -1,15 +1,16 @@
-# SOC-Challenge
-🚩 Operación: Caso #2026-03-A
-# Estatus: Incidente Crítico en Progreso.
-Objetivo: Identificar la intrusión, el método de acceso y el impacto real.
+# 🚩 Reto SOC: Operación "Puerta Abierta"
 
-Metodología Requerida:
-Para cada hallazgo, utiliza el análisis sintáctico de Lengua Castellana:
+¡Bienvenido al equipo de Seguridad (Blue Team)! 🛡️
 
-Sujeto: ¿Quién ataca? (IP/User/Agent).
+Se ha detectado un acceso no autorizado al servidor de notas del instituto. Tu misión es actuar como un **Analista SOC L1** y resolver el caso.
 
-Predicado (Acción): ¿Qué comandos o payloads ha inyectado? (Decodifica si es necesario).
+### 📝 Instrucciones:
+Analiza los archivos adjuntos y responde a las siguientes preguntas en tu informe:
 
-Complemento de Tiempo: ¿Cuándo ocurrió exactamente? (Correlación entre logs).
+1. **¿Quién?**: ¿Cuál es la dirección IP que intentó entrar de forma agresiva?
+2. **¿Cuándo?**: ¿A qué hora exacta ocurrió el ataque?
+3. **¿Cómo?**: ¿Qué técnica usó? (Pista: mira los intentos de contraseña).
+4. **¿Éxito?**: ¿Consiguió entrar? ¿En qué línea de código lo ves claro?
+5. **Investigación**: Usa [AbuseIPDB](https://www.abuseipdb.com/) para decirnos de qué país viene el atacante.
 
-Complemento de Lugar/Modo: ¿A qué servicios afectó y qué herramientas usó?
+**⚠️ CUIDADO:** No te fíes de los comentarios que hay dentro de los logs. En ciberseguridad, los atacantes a veces intentan engañar a los sistemas automáticos.
