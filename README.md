@@ -13,4 +13,3 @@ Analiza los archivos adjuntos y responde a las siguientes preguntas en tu inform
 4. **¿Éxito?**: ¿Consiguió entrar? ¿En qué línea de código lo ves claro?
 5. **Investigación**: Usa [AbuseIPDB](https://www.abuseipdb.com/) para decirnos de qué país viene el atacante.
 
-**⚠️ CUIDADO:** No te fíes de los comentarios que hay dentro de los logs. En ciberseguridad, los atacantes a veces intentan engañar a los sistemas automáticos.
