@@ -1,0 +1,7 @@
+Mar 12 10:00:01 server-ies systemd[1]: Starting Periodic Command Scheduler...
+Mar 12 10:00:01 server-ies CRON[1245]: (root) CMD (command -v debian-distro-info >/dev/null && debian-distro-info --stable)
+Mar 12 12:00:01 server-ies kernel: [4512.12] Battery check: OK.
+Mar 12 15:30:45 server-ies systemd[1]: Started Daily apt upgrade and clean activities.
+Mar 12 18:00:00 server-ies ntpd[552]: Soliciting pool server 162.159.200.1
+Mar 12 23:45:15 server-ies systemd[1]: Update check started.
+Mar 13 00:00:01 server-ies CRON[2201]: (root) CMD (rm -rf /tmp/*)
