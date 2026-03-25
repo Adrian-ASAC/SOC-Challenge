@@ -1,6 +1,6 @@
 # SOC-Challenge
 🚩 Operación: Caso #2026-03-A
-Estatus: Incidente Crítico en Progreso.
+# Estatus: Incidente Crítico en Progreso.
 Objetivo: Identificar la intrusión, el método de acceso y el impacto real.
 
 Metodología Requerida:
